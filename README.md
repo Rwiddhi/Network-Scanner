@@ -1,1 +1,4 @@
-# Network-Scanner
+# Network Scanner - A Lightweight Python-Based Network Scanning Tool
+The Network Scanner is a Python-based tool designed for network security and administration. It leverages the Scapy library to perform ICMP ping sweeps, TCP, and UDP port scanning to identify active hosts and open ports on a network. Through a simple Tkinter GUI, users can input a target host, initiate a scan, and view real-time results, making it easy to assess the status of a network or discover potential vulnerabilities. The tool is efficient and flexible, offering port-specific scans to focus on critical services like HTTP, SSH, and DNS.
+
+This project helped me gain a deeper understanding of network protocols (TCP, UDP, ICMP) and how attackers or administrators probe networks for vulnerabilities. It’s a foundational tool for anyone interested in network security and offers an entry point for deeper analysis of network traffic and service configurations.
